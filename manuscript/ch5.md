@@ -637,7 +637,7 @@ The more pure, the better. The more effort you put into making a function pure(r
 
 ## There or Not
 
-So far, we've defined function purity both as a function without side causes/effects and as a function that, given the same input(s), always produces the same output. These are just two different ways of looking at the same characteristics.
+So far, <mark>we've defined function purity both as a function without side causes/effects and as a function that</mark>, given the same input(s), always produces the same output. These are just two different ways of looking at the same characteristics.
 
 But a third way of looking at function purity, and perhaps the most widely accepted definition, is that a pure function has referential transparency.
 
